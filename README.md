@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-![mailto:sergiodavid21@gmail.com](https://img.shields.io/badge/Gmail-sergiodavid21gmail.com-red)
-![https://www.linkedin.com/in/sergiopomarico/](https://img.shields.io/badge/LinkedIn-sergiopomarico-blue)
-![](https://img.shields.io/badge/Gitlab-sergiopomarico-orange)
+[mailto:sergiodavid21@gmail.com](https://img.shields.io/badge/Gmail-sergiodavid21gmail.com-red)
+[https://www.linkedin.com/in/sergiopomarico/](https://img.shields.io/badge/LinkedIn-sergiopomarico-blue)
+[](https://img.shields.io/badge/Gitlab-sergiopomarico-orange)
