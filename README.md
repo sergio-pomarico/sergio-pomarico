@@ -1,5 +1,7 @@
 # Hi I'm Sergio ✋🏻👨🏻‍💻
 
+![](https://raw.githubusercontent.com/sergio-pomarico/sergio-pomarico/main/banner.jpg)
+
 <!--
 **sergio-pomarico/sergio-pomarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Get in touch
+<!-- ## Get in touch
 
-![mailto:sergiodavid21@gmail.com](https://img.shields.io/badge/Gmail-sergiodavid21gmail.com-red)
-![https://www.linkedin.com/in/sergiopomarico/](https://img.shields.io/badge/LinkedIn-sergiopomarico-blue)
-![](https://img.shields.io/badge/Gitlab-sergiopomarico-orange)
+![](https://img.shields.io/badge/Gmail-sergiodavid21gmail.com-red)
+![](https://img.shields.io/badge/LinkedIn-sergiopomarico-blue)
+![](https://img.shields.io/badge/Gitlab-sergiopomarico-orange) -->
