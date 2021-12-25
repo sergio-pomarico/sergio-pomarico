@@ -1,6 +1,6 @@
 # Hi I'm Sergio ✋🏻👨🏻‍💻
 
-I'm Marton, a 29 years old frontend engineer from Colombia.
+I'm Sergio, a 29 years old frontend engineer from Colombia.
 
 ![](https://raw.githubusercontent.com/sergio-pomarico/sergio-pomarico/main/banner.jpg)
 
@@ -8,21 +8,23 @@ I'm Marton, a 29 years old frontend engineer from Colombia.
 ```javascript
 const Sergio = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Dart"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  code: ["Javascript", "Dart", "TypeScript"],
+  askMeAbout: ["web development", "tech", "videogames", "photography", "mobile apps development"],
   technologies: {
+      frontend: {
+        js: ["ReactJS", "redux", "html5", "css3", "JavaScript"],
+        dart: ["Flutter for web"]
+      },
       backEnd: {
-          js: ["Node", "Fastify", "Express", "SuiteScript"],
+          js: ["Node", "Express", "Socket.IO"],
       },
       mobileApp: {
-          native: ["Android Development", "IOS Development"]
+          crossPlatform : ["React Native", "Flutter"]
       },
-      devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-      databases: ["mongo", "MySql", "sqlite"],
+      databases: ["MongoDB", "MySql", "posgres"],
       misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
   },
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  currentFocus: "Ios Mobile App Development",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
