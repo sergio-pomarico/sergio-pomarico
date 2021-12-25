@@ -4,6 +4,8 @@ I'm Sergio, a 29 years old frontend engineer from Colombia, I’m currently work
 
 ![](https://raw.githubusercontent.com/sergio-pomarico/sergio-pomarico/main/banner.jpg)
 
+## About me
+
 ```javascript
 const Sergio = {
   pronouns: "He" | "Him",
@@ -38,6 +40,7 @@ const Sergio = {
 ```
 
 ## Get in touch
+
 - [Linkedin](https://www.linkedin.com/in/sergiopomarico/)
 - [Gitlab](https://gitlab.com/sergio_pomarico)
 - [Gmail](mailto:sergiodavid21@gmail.com)
