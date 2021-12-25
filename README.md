@@ -1,24 +1,28 @@
 # Hi I'm Sergio ✋🏻👨🏻‍💻
 
+I'm Marton, a 29 years old frontend engineer from Colombia.
+
 ![](https://raw.githubusercontent.com/sergio-pomarico/sergio-pomarico/main/banner.jpg)
 
-<!--
-**sergio-pomarico/sergio-pomarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## Get in touch
-
-![](https://img.shields.io/badge/Gmail-sergiodavid21gmail.com-red)
-![](https://img.shields.io/badge/LinkedIn-sergiopomarico-blue)
-![](https://img.shields.io/badge/Gitlab-sergiopomarico-orange) -->
+```javascript
+const Sergio = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Dart"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  technologies: {
+      backEnd: {
+          js: ["Node", "Fastify", "Express", "SuiteScript"],
+      },
+      mobileApp: {
+          native: ["Android Development", "IOS Development"]
+      },
+      devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+      databases: ["mongo", "MySql", "sqlite"],
+      misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+  },
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  currentFocus: "Ios Mobile App Development",
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
