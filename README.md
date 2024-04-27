@@ -2,8 +2,6 @@
 
 I'm Sergio, a 29 years old frontend engineer from Colombia, I’m currently working on [tyba](https://tyba.com.co/)
 
-![](https://raw.githubusercontent.com/sergio-pomarico/sergio-pomarico/main/banner.jpg)
-
 ## About me
 
 ```javascript
