@@ -1,13 +1,12 @@
 # Hi I'm Sergio ✋🏻👨🏻‍💻
 
-I'm Sergio, a 29 years old frontend engineer from Colombia, I’m currently working on [tyba](https://tyba.com.co/)
+I'm Sergio, a 31 years old frontend engineer from Colombia, I’m currently working on [tyba](https://tyba.com.co/)
 
 ## About me
 
 ```javascript
 const Sergio = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Dart", "TypeScript"],
+  code: ["Javascript", "Dart", "TypeScript", "Python"],
   askMeAbout: [
     "web development",
     "tech",
@@ -18,7 +17,7 @@ const Sergio = {
   technologies: {
     frontend: {
       js: ["ReactJS", "redux", "html5", "css3", "JavaScript"],
-      dart: ["Flutter for web"],
+      dart: ["Flutter"],
     },
     backEnd: {
       js: ["Node", "Express", "Socket.IO", "GraphQL"],
